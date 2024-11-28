@@ -1,9 +1,4 @@
 
-
-![Website Developer](https://github.com/user-attachments/assets/3cd8005b-d79c-4d45-8c4c-a2bd7e0a60e6)
-
-
-
 # 💫 About Me:
 🔭 I’m currently working on<br>Building dynamic web applications with a focus on enhancing user experience using React JS and Tailwind.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to web development, particularly those that involve innovative UI/UX design or advanced React concepts.<br><br>🤝 I’m looking for help with<br>Deepening my understanding of advanced React concepts like Redux, Context API, and Middleware to improve my skills in state management.<br><br>🌱 I’m currently learning<br>New features in React and expanding my knowledge of backend technologies, particularly Node.js and Express.<br><br>💬 Ask me about<br>Web development, design principles, and best practices in building scalable applications. I’m also happy to share insights on getting started with full stack development.<br><br>⚡ Fun fact<br>I enjoy exploring new technologies and frameworks in my free time, and I’m an avid reader, often diving into books that inspire and expand my knowledge.
 
